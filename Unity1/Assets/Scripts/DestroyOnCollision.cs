@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class DestroyOnCollision : MonoBehaviour
 {
-
+    [SerializeField]
+    int money;
     [SerializeField]
     GameObject particles;
     [SerializeField]
@@ -21,6 +22,11 @@ public class DestroyOnCollision : MonoBehaviour
         rb = GetComponent<Rigidbody>();
     }
 
+    private void Start()
+    {
+        MoneyManager.instance.AddObject(money);
+    }
+
     private void FixedUpdate()
     {
         if(canBeDestroy && rb.velocity.magnitude < 0.2f)
@@ -33,6 +39,8 @@ public class DestroyOnCollision : MonoBehaviour
                 particles.SetActive(true);
                 Destroy(gameObject, particleDuration);
             }
+
+            MoneyManager.instance.AddMoney(money);
         }
             
     }
@@ -46,6 +54,8 @@ public class DestroyOnCollision : MonoBehaviour
             particles.SetActive(true);
             Destroy(gameObject, particleDuration);
         }
+
+        MoneyManager.instance.AddMoney(money);
     }
 
     public void LaunchPerHit( Vector3 dir, float force)
