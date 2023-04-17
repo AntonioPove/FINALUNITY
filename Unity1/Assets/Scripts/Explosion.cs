@@ -14,7 +14,8 @@ public class Explosion : MonoBehaviour
     bool countDown = false;
     public void LaunchObject()
     {
-        GetComponent<Rigidbody>().AddForce((Camera.main.transform.position - transform.position).normalized * force);
+        Debug.Log(Camera.main.name);
+        GetComponent<Rigidbody>().AddForce((transform.position - Camera.main.transform.position).normalized * force/10);
 
         Invoke("Bum", explodeAfterSeconds);
         countDown = true;
@@ -33,9 +34,10 @@ public class Explosion : MonoBehaviour
                 d.DestroyPerHit();
             
         }
+        if(explosionEffect != null)
         explosionEffect.SetActive(true);
 
-        GetComponent<MeshRenderer>().enabled = false;
+        transform.GetChild(0).gameObject.SetActive(false);
 
         Destroy(gameObject, deleteAfterSeconds);
     }
