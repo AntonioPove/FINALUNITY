@@ -10,8 +10,18 @@ public class Explosion : MonoBehaviour
     GameObject explosionEffect;
     [SerializeField]
     LayerMask destroyableLayer;
+    [SerializeField]
+    TextToPlayer text;
 
+    bool catched = false;
     bool countDown = false;
+
+
+    private void Update()
+    {
+        if (!catched)
+            transform.GetChild(0).rotation *= Quaternion.Euler(new Vector3(0, 10f * Time.deltaTime, 0));
+    }
     public void LaunchObject()
     {
         Debug.Log(Camera.main.name);
@@ -19,6 +29,14 @@ public class Explosion : MonoBehaviour
 
         Invoke("Bum", explodeAfterSeconds);
         countDown = true;
+        text.ActualiceText(explodeAfterSeconds);
+    }
+
+    public void Catched()
+    {
+        catched = true;
+        transform.GetChild(0).GetComponent<Animator>().enabled = false;
+        transform.GetChild(0).rotation = Quaternion.Euler(new Vector3(-90, 0, 0));
     }
 
     void Bum()

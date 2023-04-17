@@ -12,8 +12,11 @@ public class Weapon : MonoBehaviour
     Vector3 lastPos = Vector3.zero;
     Quaternion iniRot;
 
+    Animator animator;
+
     private void Awake()
     {
+        animator = GetComponent<Animator>();
         iniRot = transform.localRotation;
     }
 
@@ -22,8 +25,11 @@ public class Weapon : MonoBehaviour
         activate = to;
         if (!activate)
         {
+            animator.enabled = true;
             transform.localRotation = iniRot;
         }
+        else
+            animator.enabled = false;
     }
 
 
@@ -39,15 +45,16 @@ public class Weapon : MonoBehaviour
 
         if (Math.Abs(transform.position.x - lastPos.x) > Math.Abs(transform.position.y - lastPos.y))
         {
-            if(transform.position.x - lastPos.x >= 0)
-                transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.right);
-            else
-                transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.left);
+            transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.forward);
         }
 
         else
         {
-            transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.forward);
+            transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.right);
+            //if (transform.position.x - lastPos.x >= 0)
+            //    transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.right);
+            //else
+            //    transform.localRotation = Quaternion.LookRotation(Vector3.up, Vector3.left);
         }
            
 
