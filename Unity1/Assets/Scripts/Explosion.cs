@@ -45,6 +45,7 @@ public class Explosion : MonoBehaviour
 
     void Bum()
     {
+        AudioManager.instance.Explosion();
         Collider[] cols = Physics.OverlapSphere(transform.position, area, destroyableLayer);
 
         DestroyOnCollision d;
