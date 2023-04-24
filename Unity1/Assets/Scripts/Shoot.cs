@@ -22,12 +22,16 @@ public class Shoot : MonoBehaviour
         iniRot = transform.localRotation;
     }
 
+ private void Start()
+    {
+        //InvokeRepeating("ShootP", 0, launchVel);
+    }
     
     private void LateUpdate()
     {
         if (shooting)
         {
-            transform.localRotation = Quaternion.LookRotation(transform.position - Camera.main.transform.position);
+            //transform.localRotation = Quaternion.LookRotation(transform.position - Camera.main.transform.position);
         }
     }
 

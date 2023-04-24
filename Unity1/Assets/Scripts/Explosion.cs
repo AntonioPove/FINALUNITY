@@ -25,7 +25,11 @@ public class Explosion : MonoBehaviour
     public void LaunchObject()
     {
         Debug.Log(Camera.main.name);
-        GetComponent<Rigidbody>().AddForce((transform.position - Camera.main.transform.position).normalized * force/10);
+        var rb = GetComponent<Rigidbody>();
+         rb.useGravity = true;
+          rb.isKinematic = false;
+        rb.AddForce((transform.position - Camera.main.transform.position).normalized * force/10);
+       
 
         Invoke("Bum", explodeAfterSeconds);
         countDown = true;

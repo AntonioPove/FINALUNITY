@@ -14,9 +14,12 @@ public class Weapon : MonoBehaviour
 
     Animator animator;
 
+    Rigidbody rb;
+
     private void Awake()
     {
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody>();
         iniRot = transform.localRotation;
     }
 
@@ -25,18 +28,25 @@ public class Weapon : MonoBehaviour
         activate = to;
         if (!activate)
         {
+            rb.isKinematic = true;
             animator.enabled = true;
             transform.localRotation = iniRot;
         }
         else
-            animator.enabled = false;
+        {
+             rb.isKinematic = false;
+             animator.enabled = false;
+        }
+            
     }
 
 
 
     private void LateUpdate()
     {
-        if (!activate) return;
+      
+      /*
+  if (!activate) return;
 
         //Quaternion newRot = Quaternion.LookRotation(Vector3.up, (lastPos - transform.position).normalized);
 
@@ -67,7 +77,7 @@ public class Weapon : MonoBehaviour
 
             lastPos = transform.position;
         }
-
+*/
        
     }
 
@@ -76,6 +86,7 @@ public class Weapon : MonoBehaviour
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer("Destroyable"))
         {
+            Debug.Log("colisionMartillo");
             collision.transform.GetComponent<DestroyOnCollision>().
                 LaunchPerHit((collision.transform.position - collision.contacts[0].point).normalized,force);
         }

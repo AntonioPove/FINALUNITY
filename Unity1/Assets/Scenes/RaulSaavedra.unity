@@ -134,6 +134,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_Glass_Door 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114146, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 139204, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 421162, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
       propertyPath: m_RootOrder
       value: 105
@@ -179,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Desk_08 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 186614, guid: d5cac4569edfa5048b8c416754cca8c1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 483892, guid: d5cac4569edfa5048b8c416754cca8c1, type: 3}
       propertyPath: m_RootOrder
       value: 78
@@ -220,6 +232,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 461722962}
     m_Modifications:
+    - target: {fileID: 166316, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 457622, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -346,7 +362,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 28491794}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.1, z: 0}
+  m_LocalPosition: {x: 0, y: 0.6, z: 0}
   m_LocalScale: {x: 50, y: 50, z: 50}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -377,6 +393,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -423,6 +443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Lightswitch 1
       objectReference: {fileID: 0}
+    - target: {fileID: 137472, guid: 77ecc9370025d4b488a8b153535a715e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 442840, guid: 77ecc9370025d4b488a8b153535a715e, type: 3}
       propertyPath: m_RootOrder
       value: 118
@@ -464,6 +488,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 176564, guid: 06c5c75b75e3e8847b4a2b03b6a2cbd2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 476618, guid: 06c5c75b75e3e8847b4a2b03b6a2cbd2, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -505,6 +533,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 190092, guid: 7a248005f13183244ae36e1ae213d34f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 411366, guid: 7a248005f13183244ae36e1ae213d34f, type: 3}
       propertyPath: m_RootOrder
       value: 111
@@ -546,6 +578,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 165732, guid: 04635ce003793804fa2690462188d79e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 494032, guid: 04635ce003793804fa2690462188d79e, type: 3}
       propertyPath: m_RootOrder
       value: 87
@@ -590,6 +626,10 @@ PrefabInstance:
     - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_Name
       value: SO_Wall_CornerBlock 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 405522, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_RootOrder
@@ -640,6 +680,10 @@ PrefabInstance:
     - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_Name
       value: SO_Wall_CornerBlock 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 405522, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_RootOrder
@@ -715,6 +759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_ComputerTower 1
       objectReference: {fileID: 0}
+    - target: {fileID: 143430, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401412, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -766,6 +814,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 100000, guid: b04e484efa5663b43b1bd9d0a6836719, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b04e484efa5663b43b1bd9d0a6836719, type: 3}
       propertyPath: m_RootOrder
       value: 79
@@ -814,6 +866,10 @@ PrefabInstance:
     - target: {fileID: 145022, guid: 4cc7fc29ff35f63439be9d2ed371103e, type: 3}
       propertyPath: m_Name
       value: SO_Pinboard_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 145022, guid: 4cc7fc29ff35f63439be9d2ed371103e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 491690, guid: 4cc7fc29ff35f63439be9d2ed371103e, type: 3}
       propertyPath: m_RootOrder
@@ -865,6 +921,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 30
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -911,6 +971,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 461722962}
     m_Modifications:
+    - target: {fileID: 133744, guid: 82fbe0c48a3707349a206227add8cb86, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 468626, guid: 82fbe0c48a3707349a206227add8cb86, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -956,6 +1020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_Door_02
       objectReference: {fileID: 0}
+    - target: {fileID: 124948, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 469706, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
       propertyPath: m_RootOrder
       value: 65
@@ -1000,6 +1068,10 @@ PrefabInstance:
     - target: {fileID: 120552, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
       propertyPath: m_Name
       value: SO_Ceiling 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 120552, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 458336, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
       propertyPath: m_RootOrder
@@ -1054,6 +1126,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2086120028}
     m_Modifications:
+    - target: {fileID: 187182, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413554, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1108,6 +1184,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 469706, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
   m_PrefabInstance: {fileID: 1249008353}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &281477196 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 178414, guid: f51218793f0cfd144809f2f652620251, type: 3}
+  m_PrefabInstance: {fileID: 560524550}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &289154987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1115,6 +1196,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 134968, guid: b9ff867c5dc1e2e47a2ccdf12f16219d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 462334, guid: b9ff867c5dc1e2e47a2ccdf12f16219d, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -1160,6 +1245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_FileCabinet_05 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 161416, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413912, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
       propertyPath: m_RootOrder
       value: 76
@@ -1204,6 +1293,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -1359,6 +1452,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 182280, guid: 7a296eb86521fb84b9073db04e9af492, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 478924, guid: 7a296eb86521fb84b9073db04e9af492, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -1409,6 +1506,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_Window 16
       objectReference: {fileID: 0}
+    - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 453958, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -1454,6 +1555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 22
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 63
@@ -1498,6 +1603,10 @@ PrefabInstance:
     - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_Name
       value: SO_Floor_28
+      objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
@@ -1903,7 +2012,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &367589515
 Transform:
   m_ObjectHideFlags: 0
@@ -1913,8 +2022,8 @@ Transform:
   m_GameObject: {fileID: 367589514}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.013678, y: -1.94, z: -0.10610056}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2086120028}
   - {fileID: 461722962}
@@ -2061,6 +2170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 24
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 95
@@ -2180,6 +2293,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 199632, guid: 6a2058ec7d541bb489cb3b508956b27b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 462224, guid: 6a2058ec7d541bb489cb3b508956b27b, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -2225,6 +2342,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 166316, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 457622, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -2274,6 +2395,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 424752, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_RootOrder
       value: 98
@@ -2318,6 +2443,10 @@ PrefabInstance:
     - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_Name
       value: SO_Floor_14
+      objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
@@ -2366,7 +2495,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2374,11 +2503,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.94
+      value: 1.608
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.84
+      value: -0.159
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2469,6 +2598,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 193958, guid: d75434053865bda459879b47a5c6ab77, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 471862, guid: d75434053865bda459879b47a5c6ab77, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -2519,6 +2652,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 19
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -2565,6 +2702,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 148448, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 407960, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
       propertyPath: m_RootOrder
       value: 122
@@ -2622,6 +2763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Cupboard 1
       objectReference: {fileID: 0}
+    - target: {fileID: 187378, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 457722, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -2666,6 +2811,10 @@ PrefabInstance:
     - target: {fileID: 134318, guid: 35ef4172f7620074498176f8fcdb1191, type: 3}
       propertyPath: m_Name
       value: SO_WaterCooler_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 134318, guid: 35ef4172f7620074498176f8fcdb1191, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 499950, guid: 35ef4172f7620074498176f8fcdb1191, type: 3}
       propertyPath: m_RootOrder
@@ -2712,6 +2861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Floor_02
       objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 59
@@ -2753,6 +2906,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 114146, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 139204, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 421162, guid: 25d5aaa0a93c5fd4aafc25215a4f3534, type: 3}
       propertyPath: m_RootOrder
       value: 67
@@ -2874,6 +3035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Desk_07 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 165648, guid: bdc0036ad6e19f34cb1c5ceb3df14431, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 466154, guid: bdc0036ad6e19f34cb1c5ceb3df14431, type: 3}
       propertyPath: m_RootOrder
       value: 39
@@ -2940,6 +3105,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 461722962}
     m_Modifications:
+    - target: {fileID: 176564, guid: 06c5c75b75e3e8847b4a2b03b6a2cbd2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 476618, guid: 06c5c75b75e3e8847b4a2b03b6a2cbd2, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3111,6 +3280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Clock 2
       objectReference: {fileID: 0}
+    - target: {fileID: 141588, guid: 1058847bef51bfb4184b1dfc8e80f2d6, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 422140, guid: 1058847bef51bfb4184b1dfc8e80f2d6, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -3155,6 +3328,10 @@ PrefabInstance:
     - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_Name
       value: Floor_Carpet_Grey 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
@@ -3205,6 +3382,10 @@ PrefabInstance:
     - target: {fileID: 178414, guid: f51218793f0cfd144809f2f652620251, type: 3}
       propertyPath: m_Name
       value: SO_Chair05 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 178414, guid: f51218793f0cfd144809f2f652620251, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 422922, guid: f51218793f0cfd144809f2f652620251, type: 3}
       propertyPath: m_RootOrder
@@ -3265,6 +3446,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Door (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 460090, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -3309,6 +3494,10 @@ PrefabInstance:
     - target: {fileID: 187426, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
       propertyPath: m_Name
       value: SO_Desk_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 187426, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 443328, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
       propertyPath: m_RootOrder
@@ -3367,7 +3556,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &588149794
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3440,7 +3629,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 588149793}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.16, z: 0}
   m_LocalScale: {x: 50, y: 50, z: 50}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3457,6 +3646,10 @@ PrefabInstance:
     - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_Name
       value: Floor_Carpet_Grey 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
@@ -3623,6 +3816,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 1
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 84
@@ -3667,6 +3864,10 @@ PrefabInstance:
     - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_Name
       value: SO_Floor_12
+      objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
@@ -3810,6 +4011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_CornerBlock 4
       objectReference: {fileID: 0}
+    - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 405522, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -3854,6 +4059,10 @@ PrefabInstance:
     - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_Name
       value: SO_Wall_Window 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 453958, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_RootOrder
@@ -3900,6 +4109,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_Window 3
       objectReference: {fileID: 0}
+    - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 453958, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_RootOrder
       value: 73
@@ -3944,6 +4157,10 @@ PrefabInstance:
     - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_Name
       value: SO_Wall_Window 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 453958, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_RootOrder
@@ -3990,6 +4207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Floor_11
       objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -4035,6 +4256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Floor_03
       objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 115
@@ -4079,6 +4304,10 @@ PrefabInstance:
     - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_Name
       value: Floor_Carpet_Grey 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
@@ -4130,6 +4359,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 16
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 124
@@ -4180,6 +4413,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Couch_07
       objectReference: {fileID: 0}
+    - target: {fileID: 193958, guid: d75434053865bda459879b47a5c6ab77, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 471862, guid: d75434053865bda459879b47a5c6ab77, type: 3}
       propertyPath: m_RootOrder
       value: 94
@@ -4224,6 +4461,10 @@ PrefabInstance:
     - target: {fileID: 121108, guid: 547c0198203bcf34da765bb5cfe1ce65, type: 3}
       propertyPath: m_Name
       value: SO_Plant_07
+      objectReference: {fileID: 0}
+    - target: {fileID: 121108, guid: 547c0198203bcf34da765bb5cfe1ce65, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 484298, guid: 547c0198203bcf34da765bb5cfe1ce65, type: 3}
       propertyPath: m_RootOrder
@@ -4380,6 +4621,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 166316, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 457622, guid: f3169bfafc801f14bad455a9ce0566b4, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -4435,6 +4680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_CornerBlock 1
       objectReference: {fileID: 0}
+    - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 405522, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_RootOrder
       value: 71
@@ -4481,6 +4730,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 138510, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 405522, guid: 254978fada9015b409a4c5a96a16c193, type: 3}
       propertyPath: m_RootOrder
       value: 106
@@ -4522,6 +4775,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 140606, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 493624, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
       propertyPath: m_RootOrder
       value: 109
@@ -4567,6 +4824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Desk_03
       objectReference: {fileID: 0}
+    - target: {fileID: 187426, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 443328, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
       propertyPath: m_RootOrder
       value: 45
@@ -4611,6 +4872,10 @@ PrefabInstance:
     - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_Name
       value: SO_Floor_13
+      objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
@@ -4671,6 +4936,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -4821,6 +5090,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_CeilingLight 1
       objectReference: {fileID: 0}
+    - target: {fileID: 148448, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 407960, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
       propertyPath: m_RootOrder
       value: 100
@@ -4888,6 +5161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Boxfile_06
       objectReference: {fileID: 0}
+    - target: {fileID: 134968, guid: b9ff867c5dc1e2e47a2ccdf12f16219d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 462334, guid: b9ff867c5dc1e2e47a2ccdf12f16219d, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -4932,6 +5209,10 @@ PrefabInstance:
     - target: {fileID: 190092, guid: 7a248005f13183244ae36e1ae213d34f, type: 3}
       propertyPath: m_Name
       value: SO_FileBox_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 190092, guid: 7a248005f13183244ae36e1ae213d34f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 411366, guid: 7a248005f13183244ae36e1ae213d34f, type: 3}
       propertyPath: m_RootOrder
@@ -4983,6 +5264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Keyboard_02
       objectReference: {fileID: 0}
+    - target: {fileID: 140606, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 493624, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5027,6 +5312,14 @@ PrefabInstance:
     - target: {fileID: 105514, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
       propertyPath: m_Name
       value: SO_Wall_Glass 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 105514, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 177230, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 416598, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
       propertyPath: m_RootOrder
@@ -5082,6 +5375,10 @@ PrefabInstance:
     - target: {fileID: 160712, guid: fd966e0e794d8af4c9e19b829d81ec1b, type: 3}
       propertyPath: m_Name
       value: SO_Desk_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 160712, guid: fd966e0e794d8af4c9e19b829d81ec1b, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 443556, guid: fd966e0e794d8af4c9e19b829d81ec1b, type: 3}
       propertyPath: m_RootOrder
@@ -5167,6 +5464,21 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 422922, guid: f51218793f0cfd144809f2f652620251, type: 3}
   m_PrefabInstance: {fileID: 560524550}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &878173878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 281477196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b255b1c0c35f6243b02d19622b022f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  money: 100
+  particles: {fileID: 0}
+  particleDuration: 0
 --- !u!1001 &884801967
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5177,6 +5489,10 @@ PrefabInstance:
     - target: {fileID: 178414, guid: f51218793f0cfd144809f2f652620251, type: 3}
       propertyPath: m_Name
       value: SO_Chair07 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 178414, guid: f51218793f0cfd144809f2f652620251, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 422922, guid: f51218793f0cfd144809f2f652620251, type: 3}
       propertyPath: m_RootOrder
@@ -5219,6 +5535,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 189408, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 470370, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -5268,6 +5588,10 @@ PrefabInstance:
     - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_Name
       value: SO_Plant_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 424752, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_RootOrder
@@ -5359,6 +5683,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Floor_27
       objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -5405,6 +5733,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 140606, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 493624, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -5449,6 +5781,10 @@ PrefabInstance:
     - target: {fileID: 165648, guid: bdc0036ad6e19f34cb1c5ceb3df14431, type: 3}
       propertyPath: m_Name
       value: SO_Desk_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 165648, guid: bdc0036ad6e19f34cb1c5ceb3df14431, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 466154, guid: bdc0036ad6e19f34cb1c5ceb3df14431, type: 3}
       propertyPath: m_RootOrder
@@ -5524,6 +5860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 21
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -5594,6 +5934,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 143430, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401412, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -5654,6 +5998,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_CeilingLight 3
       objectReference: {fileID: 0}
+    - target: {fileID: 148448, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 407960, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
       propertyPath: m_RootOrder
       value: 101
@@ -5711,6 +6059,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 2
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -5755,6 +6107,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -5805,6 +6161,10 @@ PrefabInstance:
     - target: {fileID: 148448, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
       propertyPath: m_Name
       value: SO_CeilingLight 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 148448, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 407960, guid: 26a51d653bd7111429b1afe89194a707, type: 3}
       propertyPath: m_RootOrder
@@ -6090,6 +6450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 18
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 89
@@ -6141,6 +6505,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 460090, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -6370,6 +6738,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 15
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 49
@@ -6446,6 +6818,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 16
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -6492,6 +6868,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 187426, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 443328, guid: 2552b2657bb919443a19c8b3cdf4fd6a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -6570,6 +6950,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 461722962}
     m_Modifications:
+    - target: {fileID: 128120, guid: 7cc1418e9853873428f92758e6ec1d8d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 179622, guid: 7cc1418e9853873428f92758e6ec1d8d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 409878, guid: 7cc1418e9853873428f92758e6ec1d8d, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6624,6 +7012,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall_Door_03
       objectReference: {fileID: 0}
+    - target: {fileID: 124948, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 469706, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -6669,6 +7061,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 3
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -6713,6 +7109,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -6784,6 +7184,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 143430, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401412, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -6839,6 +7243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Plant_06
       objectReference: {fileID: 0}
+    - target: {fileID: 121108, guid: 547c0198203bcf34da765bb5cfe1ce65, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 484298, guid: 547c0198203bcf34da765bb5cfe1ce65, type: 3}
       propertyPath: m_RootOrder
       value: 121
@@ -6880,6 +7288,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 187182, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413554, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -6929,6 +7341,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2086120028}
     m_Modifications:
+    - target: {fileID: 153204, guid: 29048924180259744b67609f4de9ff26, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 420060, guid: 29048924180259744b67609f4de9ff26, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -6973,6 +7389,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -7019,6 +7439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Painting_03
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cfd607baed7447f4cba3082a6ca8b626, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cfd607baed7447f4cba3082a6ca8b626, type: 3}
       propertyPath: m_RootOrder
       value: 91
@@ -7064,6 +7488,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 461722962}
     m_Modifications:
+    - target: {fileID: 111386, guid: 0b9c8290611031e459c2596b4ee0f3bc, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 463238, guid: 0b9c8290611031e459c2596b4ee0f3bc, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -7134,6 +7562,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -7178,6 +7610,10 @@ PrefabInstance:
     - target: {fileID: 113634, guid: 688f883d732992641b79bb39fa1415c7, type: 3}
       propertyPath: m_Name
       value: SO_JanitorCart
+      objectReference: {fileID: 0}
+    - target: {fileID: 113634, guid: 688f883d732992641b79bb39fa1415c7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 436428, guid: 688f883d732992641b79bb39fa1415c7, type: 3}
       propertyPath: m_RootOrder
@@ -7260,6 +7696,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Mousepad_03
       objectReference: {fileID: 0}
+    - target: {fileID: 165732, guid: 04635ce003793804fa2690462188d79e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 494032, guid: 04635ce003793804fa2690462188d79e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -7304,6 +7744,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 32 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -7447,6 +7891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 28
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -7493,6 +7941,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 182104, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 425026, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -7547,6 +7999,10 @@ PrefabInstance:
     - target: {fileID: 120552, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
       propertyPath: m_Name
       value: SO_Ceiling 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 120552, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 458336, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
       propertyPath: m_RootOrder
@@ -7631,6 +8087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Ceiling 2
       objectReference: {fileID: 0}
+    - target: {fileID: 120552, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 458336, guid: 486ad0e54d42aa846975759d760128d9, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -7688,6 +8148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_RubbishBin_05
       objectReference: {fileID: 0}
+    - target: {fileID: 189408, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 470370, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -7732,6 +8196,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -7817,6 +8285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Clock 1
       objectReference: {fileID: 0}
+    - target: {fileID: 141588, guid: 1058847bef51bfb4184b1dfc8e80f2d6, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 422140, guid: 1058847bef51bfb4184b1dfc8e80f2d6, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -7858,6 +8330,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 140606, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 493624, guid: 213800715606c5e448fa9ae88e2dffbd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -7910,6 +8386,10 @@ PrefabInstance:
     - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_Name
       value: SO_Door 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 460090, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_RootOrder
@@ -8178,6 +8658,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Floor_29
       objectReference: {fileID: 0}
+    - target: {fileID: 186892, guid: 82d212ec178493943bce68e9688b1660, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441084, guid: 82d212ec178493943bce68e9688b1660, type: 3}
       propertyPath: m_RootOrder
       value: 102
@@ -8295,6 +8779,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 151532, guid: 33d909682908ed0489cf3993db1a2324, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 441784, guid: 33d909682908ed0489cf3993db1a2324, type: 3}
       propertyPath: m_RootOrder
       value: 99
@@ -8358,6 +8846,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_FileCabinet_05
       objectReference: {fileID: 0}
+    - target: {fileID: 161416, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413912, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
       propertyPath: m_RootOrder
       value: 68
@@ -8402,6 +8894,10 @@ PrefabInstance:
     - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_Name
       value: SO_Plant_04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 424752, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_RootOrder
@@ -8448,6 +8944,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 169954, guid: b2301ce9bf43e1b4891d1e3b557b3846, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 431582, guid: b2301ce9bf43e1b4891d1e3b557b3846, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8598,6 +9098,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 105514, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 177230, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 416598, guid: 0e9a03c70ebdb9048b62c7bc85070420, type: 3}
       propertyPath: m_RootOrder
       value: 88
@@ -8639,6 +9147,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 124948, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 469706, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -8680,6 +9192,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 187182, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413554, guid: 97dc3dbd8098730408968586a99c465f, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -8796,6 +9312,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 14
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -8840,6 +9360,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -8890,6 +9414,10 @@ PrefabInstance:
     - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_Name
       value: SO_Door 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 195318, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 460090, guid: b8b27fb944ca23b468b9b0a188b69296, type: 3}
       propertyPath: m_RootOrder
@@ -9072,6 +9600,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 179244, guid: f06631eaf56264642973fa3b95907466, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 458076, guid: f06631eaf56264642973fa3b95907466, type: 3}
       propertyPath: m_RootOrder
       value: 92
@@ -9127,6 +9659,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 32
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -9171,6 +9707,10 @@ PrefabInstance:
     - target: {fileID: 187378, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
       propertyPath: m_Name
       value: SO_Cupboard 2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 187378, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 457722, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
       propertyPath: m_RootOrder
@@ -9237,6 +9777,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1159976681}
     m_Modifications:
+    - target: {fileID: 137108, guid: 85c14a5184927774eaf8186be057f5ee, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 458580, guid: 85c14a5184927774eaf8186be057f5ee, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -9282,6 +9826,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_RubbishBin_04
       objectReference: {fileID: 0}
+    - target: {fileID: 189408, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 470370, guid: 74e671493ed4d404ba93021394595f2a, type: 3}
       propertyPath: m_RootOrder
       value: 112
@@ -9323,6 +9871,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 137108, guid: 85c14a5184927774eaf8186be057f5ee, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 458580, guid: 85c14a5184927774eaf8186be057f5ee, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -9376,6 +9928,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Chair08 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 196886, guid: 90a05d78db3290a42a060448a7b0afc5, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 499888, guid: 90a05d78db3290a42a060448a7b0afc5, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -9417,6 +9973,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 143430, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401412, guid: 5b6d56771ff19a249bf6fb912884862b, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9470,6 +10030,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Papers_04 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 177450, guid: b2d95bb4b2a95bb42a3e7ac3f0b627ba, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401458, guid: b2d95bb4b2a95bb42a3e7ac3f0b627ba, type: 3}
       propertyPath: m_RootOrder
       value: 72
@@ -9515,6 +10079,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Plant_04
       objectReference: {fileID: 0}
+    - target: {fileID: 102904, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 424752, guid: 569086688ba911c46a9b1936c8286a1e, type: 3}
       propertyPath: m_RootOrder
       value: 57
@@ -9559,6 +10127,10 @@ PrefabInstance:
     - target: {fileID: 113176, guid: c5ca49f8a5bc41749bda1647aa50937a, type: 3}
       propertyPath: m_Name
       value: SO_Chair06 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 113176, guid: c5ca49f8a5bc41749bda1647aa50937a, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 494748, guid: c5ca49f8a5bc41749bda1647aa50937a, type: 3}
       propertyPath: m_RootOrder
@@ -9671,6 +10243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Chair09 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 113176, guid: c5ca49f8a5bc41749bda1647aa50937a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 494748, guid: c5ca49f8a5bc41749bda1647aa50937a, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -9763,6 +10339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Monitor_01PostItNotes (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 182104, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 425026, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -9822,6 +10402,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Desk_04
       objectReference: {fileID: 0}
+    - target: {fileID: 160712, guid: fd966e0e794d8af4c9e19b829d81ec1b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 443556, guid: fd966e0e794d8af4c9e19b829d81ec1b, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -9871,6 +10455,10 @@ PrefabInstance:
     - target: {fileID: 124948, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
       propertyPath: m_Name
       value: SO_Wall_Door_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 124948, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 469706, guid: 1e8d81f7c7bde9644b23cbfa35ff08ea, type: 3}
       propertyPath: m_RootOrder
@@ -9922,6 +10510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 17
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 103
@@ -9966,6 +10558,10 @@ PrefabInstance:
     - target: {fileID: 140702, guid: 22fa0076889e13b4c80bb767b031f2b2, type: 3}
       propertyPath: m_Name
       value: SO_PowerOutlet 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 140702, guid: 22fa0076889e13b4c80bb767b031f2b2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 481098, guid: 22fa0076889e13b4c80bb767b031f2b2, type: 3}
       propertyPath: m_RootOrder
@@ -10022,6 +10618,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Cupboard 2
       objectReference: {fileID: 0}
+    - target: {fileID: 187378, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 457722, guid: 657680d8375b6c546802e2ff49143ee7, type: 3}
       propertyPath: m_RootOrder
       value: 119
@@ -10071,6 +10671,10 @@ PrefabInstance:
     - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_Name
       value: SO_Wall 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
@@ -10183,6 +10787,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_FileCabinet_05 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 161416, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 413912, guid: dbd2c38de0bf1964294a0e2e9671337f, type: 3}
       propertyPath: m_RootOrder
       value: 110
@@ -10228,6 +10836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_Carpet_Grey 23
       objectReference: {fileID: 0}
+    - target: {fileID: 187572, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 452192, guid: 94f4620a533a8bc4cbd53f07b8a1e05e, type: 3}
       propertyPath: m_RootOrder
       value: 86
@@ -10269,6 +10881,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 973000831}
     m_Modifications:
+    - target: {fileID: 182104, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 425026, guid: 1ab07e421a5657542b596f27c803c3b4, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -10321,6 +10937,10 @@ PrefabInstance:
     - target: {fileID: 107008, guid: b4edcc3196a1c26448c69020f186a226, type: 3}
       propertyPath: m_Name
       value: SO_Deskphone_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 107008, guid: b4edcc3196a1c26448c69020f186a226, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 492968, guid: b4edcc3196a1c26448c69020f186a226, type: 3}
       propertyPath: m_RootOrder
@@ -10585,6 +11205,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 160994, guid: 7dc736ca845111d4b8362ab5b701ed66, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 495244, guid: 7dc736ca845111d4b8362ab5b701ed66, type: 3}
       propertyPath: m_RootOrder
       value: 48
@@ -10687,6 +11311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Couch_03
       objectReference: {fileID: 0}
+    - target: {fileID: 131110, guid: 1275027a3f944854faa6cb65d4f28be8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 407926, guid: 1275027a3f944854faa6cb65d4f28be8, type: 3}
       propertyPath: m_RootOrder
       value: 97
@@ -10771,6 +11399,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Wall 5
       objectReference: {fileID: 0}
+    - target: {fileID: 193654, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 401290, guid: 48904ac029cf0f8478666c43b7e018b3, type: 3}
       propertyPath: m_RootOrder
       value: 36
@@ -10812,6 +11444,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 367589515}
     m_Modifications:
+    - target: {fileID: 154612, guid: 8babe578a7f87754c94f7ad783c9c5e8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 475446, guid: 8babe578a7f87754c94f7ad783c9c5e8, type: 3}
       propertyPath: m_RootOrder
       value: 64
@@ -10866,6 +11502,10 @@ PrefabInstance:
     - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_Name
       value: SO_Wall_Window 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 189238, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 453958, guid: 60f4e128a89ee4a4f819677a974d462c, type: 3}
       propertyPath: m_RootOrder
@@ -11057,6 +11697,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SO_Couch_04
       objectReference: {fileID: 0}
+    - target: {fileID: 131110, guid: 1275027a3f944854faa6cb65d4f28be8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 407926, guid: 1275027a3f944854faa6cb65d4f28be8, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -11201,16 +11845,28 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.518
       objectReference: {fileID: 0}
     - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.9699998
+      value: 2.24
       objectReference: {fileID: 0}
     - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.830001
+      value: 1.911
       objectReference: {fileID: 0}
     - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11240,6 +11896,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3088038929269822929, guid: b621b488cfed87248a7163a3595d8787, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088038929269822943, guid: b621b488cfed87248a7163a3595d8787, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b621b488cfed87248a7163a3595d8787, type: 3}
 --- !u!1001 &1425733465936544961
@@ -11249,21 +11913,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1425733467525915769, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.0931703e-11
+      value: 1.64
       objectReference: {fileID: 0}
     - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.9699998
+      value: 2.585
       objectReference: {fileID: 0}
     - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.830001
+      value: -2.09
       objectReference: {fileID: 0}
     - target: {fileID: 1672947194337402824, guid: db325d1620d65564895bb4bbd7f7171b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11308,7 +11988,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11316,11 +12008,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.9699998
+      value: 2.24
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.830001
+      value: 1.911
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11348,6 +12040,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286465, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286469, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968689935338286470, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2968689935338286495, guid: 6065d2dc00ef29a4fad352a60efce2bd, type: 3}

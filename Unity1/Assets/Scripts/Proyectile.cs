@@ -11,8 +11,10 @@ public class Proyectile : MonoBehaviour
 
     private void Start()
     {
-        rb.velocity = (transform.position - Camera.main.transform.position) * vel * Time.fixedDeltaTime;
-        transform.rotation = Quaternion.LookRotation(transform.position - Camera.main.transform.position);
+        //rb.velocity = (transform.position - Camera.main.transform.position) * vel * Time.fixedDeltaTime;
+        //transform.rotation = Quaternion.LookRotation(transform.position - Camera.main.transform.position);
+
+        rb.velocity = (transform.forward) * vel * Time.fixedDeltaTime;
     }
 
     private void OnCollisionEnter(Collision collision)
