@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RaulSaavedra.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 265c03877da76bd4d829e9e3411fec4e
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 92aefaadcf4efd640bf2c2fc07271b95, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9b05adc89067e846a576450622ef8fe, type: 2}

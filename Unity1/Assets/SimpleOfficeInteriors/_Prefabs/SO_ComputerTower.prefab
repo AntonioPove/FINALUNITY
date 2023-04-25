@@ -132,6 +132,7 @@ MonoBehaviour:
   money: 100
   particles: {fileID: 2315231746850390566}
   particleDuration: 3
+  audioOnDestruction: 1
 --- !u!1001 &2315231746850515188
 PrefabInstance:
   m_ObjectHideFlags: 0
