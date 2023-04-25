@@ -71,6 +71,7 @@ public class DestroyOnCollision : MonoBehaviour
     public void LaunchPerHit(Vector3 dir, float force)
     {
         Invoke("ActivateDestroy", 1f);
+        AudioManager.instance.Destruction(audioOnDestruction);
         rb.AddForce(dir.normalized * force);
     }
 
