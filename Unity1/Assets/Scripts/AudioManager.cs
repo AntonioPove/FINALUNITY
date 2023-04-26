@@ -7,7 +7,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField]
     AudioSource policeAudio;
     [SerializeField]
-    AudioSource explosionSound;
+    AudioSource explosionSound, shootSound;
     [SerializeField]
     AudioSource[] destructions;
 
@@ -27,8 +27,14 @@ public class AudioManager : MonoBehaviour
         explosionSound.Play();
     }
 
+    public void Shoot()
+    {
+        shootSound.Play();
+    }
+
     public void Destruction(int i)
     {
+        if(!destructions[i].isPlaying)
         destructions[i].Play();
     }
 }

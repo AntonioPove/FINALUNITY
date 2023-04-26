@@ -38,6 +38,7 @@ public class Shoot : MonoBehaviour
 
     void ShootP()
     {
+        AudioManager.instance.Shoot();
         Instantiate<GameObject>(proyectile, target.position, Quaternion.LookRotation(transform.forward));
     }
 
